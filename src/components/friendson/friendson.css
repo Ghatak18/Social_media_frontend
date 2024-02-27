@@ -1,0 +1,14 @@
+.onlineindicator{
+    height:10px;
+    width: 10px;
+    border-radius: 50%;
+    color: rgb(127, 255, 131) ;
+    background-color: rgb(127, 255, 131);
+    font-size: 7px;
+    border: 2px solid whitesmoke;
+    margin-left: -13px ;
+    margin-bottom: -5px;
+}
+.friendson{
+    box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.1);
+}

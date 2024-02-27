@@ -1,0 +1,19 @@
+.post{box-shadow: 5px 3px 105px 0px rgba(0,0,0,1);
+-webkit-box-shadow: 5px 3px 105px 0px rgba(0,0,0,1);
+-moz-box-shadow: 5px 3px 105px 0px rgba(0,0,0,1);
+-drag: none;
+            user-select: none;
+            -moz-user-select: none;
+            -webkit-user-drag: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+}
+
+.img{
+    -drag: none;
+            user-select: none;
+            -moz-user-select: none;
+            -webkit-user-drag: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+}

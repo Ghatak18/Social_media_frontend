@@ -1,0 +1,17 @@
+.mainscreen{
+  display: flex;
+  margin-right: 0;
+  
+  background-color: bisque;
+  height: 100vh;
+  margin-top: 25px;
+  justify-content: space-between;
+}
+.feed{
+  /* background-color: aquamarine; */
+  flex-grow: 1;
+}
+.notes{
+  /* background-color: brown; */
+  margin-right: 0;
+}

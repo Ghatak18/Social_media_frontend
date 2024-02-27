@@ -1,0 +1,17 @@
+.rightbar{
+    height: calc(100vh - 64px);
+    
+    /* background-color:#303236;  */
+    /* background-image: url("https://gooloc.com/wp-content/uploads/2015/10/b2my2wszwqv.jpg"); */
+    --tw-text-opacity: 1;
+    color: rgb(254 252 232 / var(--tw-text-opacity));
+    width: 20rem/* 320px */;
+    position: fixed;
+    flex:3;
+    overflow-y: scroll;
+}
+
+
+::-webkit-scrollbar{
+    width: 5px;
+}

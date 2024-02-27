@@ -1,0 +1,12 @@
+.feed{
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh-64px);
+    /* flex:5; */
+    /* background-color: #565A61; */
+    /* background-image: url("https://i.pinimg.com/564x/76/46/5b/76465be29d569c472727be6a411ad880.jpg"); */
+    background-image: url("https://www.designbolts.com/wp-content/uploads/2012/11/Free-medium-dark-Tileable-Pattern-Website-Background.jpg");
+    width: calc(100vw-704px);
+    margin-left: 250px;
+    padding-right: 100px;
+}
